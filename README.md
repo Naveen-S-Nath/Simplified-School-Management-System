@@ -38,8 +38,6 @@ Implement cloud database support
 Enhance UI with modern design
 
 
-Author:
-Naveen S Nath
 
 
 
